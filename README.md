@@ -1,4 +1,4 @@
-## Kata Mars Rover
+## Kata: Mars Rover
 
 This is my answer for the Mars Rover Kata in Ruby.
 
