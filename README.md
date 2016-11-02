@@ -14,7 +14,7 @@ The problem description was received in portuguese (transcripted below) but you 
 >
 > Um esquadrão de sondas robóticas da NASA pousará em um platô em Marte. Este platô, que curiosamente tem formato retangular, deve ser percorrido pelas sondas a fim de fornecer informações a respeito do terreno através das câmeras instaladas nas sondas, as quais enviarão as imagens à Terra.
 >
-> A posição da sonda e sua localização são representadas por uma combinação de coordenadas x e y, além de uma letra representando um dos quatro principais pontos cardeais da rosa dos ventos (N, S, L, W -- lembre-se que o código deve ser em inglês, portanto a representação do Oeste é 'W', não 'O'). O platô é dividido em um quadriculado para simplificar a navegação. Um exemplo de posição seria 0, 0, N, que significa que a sonda está no canto inferior esquerdo apontando para o Norte.
+> A posição da sonda e sua localização são representadas por uma combinação de coordenadas x e y, além de uma letra representando um dos quatro principais pontos cardeais da rosa dos ventos (N, S, E, W -- lembre-se que o código deve ser em inglês, portanto a representação do Oeste é 'W', não 'O'). O platô é dividido em um quadriculado para simplificar a navegação. Um exemplo de posição seria 0, 0, N, que significa que a sonda está no canto inferior esquerdo apontando para o Norte.
 >
 > Para controlar a sonda, a NASA envia uma série simples de letras. As letras possíveis são 'L', 'R' e 'M'. 'L' e 'R' fazem a sonda girar 90 graus para a esquerda ou direita respectivamente, sem sair de sua posição atual. 'M' significa "mova-se para frente uma posição no quadriculado do platô e mantenha a direção para onde você está apontando".
 >
